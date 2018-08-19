@@ -1,7 +1,9 @@
 ---
 layout: post
 title:  "한 미술교육"
-description: 양재동에 위치한 미술교육학습소. 서울시 서초구 양재동 18-3번지 2층. 02)529-5l5l
+description: 양재동에 위치한 미술교육학습소. 
+              서울시 서초구 양재동 18-3번지 2층. 
+              02)529-5l5l
 date:   2018-08-19 23:44:47 
 categories: jekyll update
 img: karna.jpg
