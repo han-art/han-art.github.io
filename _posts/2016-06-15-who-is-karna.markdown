@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "한 미술교육"
-description: 양재동에 위치한 미술교육학습소.                  서울시 서초구 양재동 18-3번지 2층.             02)529-5l5l
+description: 카르마는 '행하다' 또는 '만들다' 를 의미하는 산스크리트어 동사 '크르 kr'를 어근으로 하는데, 이 술어는 고(古)우파니샤드 에서 윤회사상과 관련되어 함께 설명된다. 불교는 이 개념의 완성에 일익을 담당 
 date:   2018-08-19 23:44:47 
 categories: jekyll update
 img: karna.jpg
