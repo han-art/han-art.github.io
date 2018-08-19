@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Who is Karna?"
-description: Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Duis vehicula tincidunt lacus nec fringilla. Morbi molestie fringilla laoreet. Vestibulum venenatis ante in imperdiet venenatis. 
-date:   2016-06-13 10:51:47 +0530
+title:  "한 미술교육"
+description: 양재동에 위치한 미술교육학습소. 서울시 서초구 양재동 18-3번지 2층. 02)529-5l5l
+date:   2018-08-19 23:44:47 
 categories: jekyll update
 img: karna.jpg
 categories: [one, two]
 color: 1976D2
-author: webjeda
+author: deeper
 ---
 Karna is one of the central characters in the Hindu epic Mahābhārata. Karna was one of the greatest warriors, whose martial exploits are recorded in the epic, and the only warrior believed to be able to defeat Arjuna in battle.
 
